@@ -1,0 +1,23 @@
+.fondo{
+    background-color: #eaeaea;
+}
+.imagen-feed{
+    height: 400px;
+    background: url("https://images.pexels.com/photos/10153603/pexels-photo-10153603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.texto-feed{
+    padding-top: 10px;
+}
+.feed{
+    margin-top: 60px;
+}
+.imagen-feed2{
+    height: 400px;
+    background: url("https://images.pexels.com/photos/5044497/pexels-photo-5044497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
